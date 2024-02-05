@@ -1,7 +1,7 @@
 # Space Adventure - Scratch Game
 
 ## Video Demo
-[Link to Video Demo]()
+[Link to Video Demo](https://youtu.be/8m4I_V6quUI)
 
 ## Description
 Space Adventure is an interactive game created in Scratch, where players control a spaceship, navigate through asteroids, and collect stars for points. The game features basic movements, scoring mechanics, and an engaging user experience.
